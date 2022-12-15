@@ -109,6 +109,7 @@ button {
     font-size: 0.75rem;
     text-transform: uppercase;
     letter-spacing: 0.3125rem;
+    margin-bottom: 0.5rem
 }
 
 .product__title,
